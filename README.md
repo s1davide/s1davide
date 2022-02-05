@@ -1,8 +1,25 @@
 ### Hi there 👋
 
+ <br> I'm Sebastian Estrada, Full Stack Web Developer :computer:<br>
+<p align="left">
+
+
+ 
 - 🔭 I’m currently working as Full Stack Developer.
 - 🌱 I’m currently learning DevOps metodology. 
-- 👯 I’m looking to collaborate on Full Stack projects with Vue js, React, Angular, Firebase, Google Cloud and Node js
+- 👯 I’m looking to collaborate on Full Stack projects with Vue js, React, Angular, Firebase, Google Cloud and Node js.
 - 💬 Ask me about the benefits of applying functional programming principles.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+
+<p>
+ 
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1davide" alt="s1davide" />
+ </p>
+
+ 
+
+ 
+
+
