@@ -8,7 +8,6 @@
 - 🔭 I’m currently working as Full Stack Developer.
 - 🌱 I’m currently learning DevOps metodology. 
 - 👯 I’m looking to collaborate on Full Stack projects with Vue js, React, Angular, Firebase, Google Cloud and Node js.
-- 💬 Ask me about the benefits of applying functional programming principles.
 
   </p>
 
